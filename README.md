@@ -5,3 +5,12 @@
 
 - 🌱 I’m currently learning frontend web development 
 -->
+Person me = new Person ();
+while (me.alive){
+me.Study(👨‍🎓);
+me.DoCode(</>);
+me.DoWorkout(💪);
+me.Eat(🍱);
+me.Sleep(😴);
+me.Reapeat(⚡);
+}
