@@ -6,4 +6,3 @@
 - 🌱 I’m currently learning frontend web development 
 -->
 
-}
